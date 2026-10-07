@@ -1,3 +1,5 @@
+This repository is archived. Glauca is now Goney, a family in Ensigns: https://github.com/tiagojct/ensigns/tree/main/families/goney. The changelog of the family lists what changed from Glauca 0.1.0. Downloads and specimen: https://ensigns.tiagojacinto.eu/goney/.
+
 # Glauca
 
 A design system named for the glaucous bloom: the pale blue-grey-green film on
